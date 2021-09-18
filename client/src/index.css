@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input, textarea {
+  @apply border border-gray-400  border-solid p-2 w-full;
+}
+button {
+  @apply rounded-md p-2 hover:shadow-md;
+}
