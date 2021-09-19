@@ -3,6 +3,12 @@
 2. After cloning run this in the booklist folder: npm run docker:up
 3. When everything is installed and set up you can run the app in http://localhost:3000/
 
+## If you need to build or down the container for some reason use these commands:
+* npm run docker:build
+* npm run docker:down
+
+
+
 ## Features
 
 ### Create book
@@ -17,3 +23,9 @@
 ### Delete book
 
 ![Delete gif](https://user-images.githubusercontent.com/87190300/133934164-4bbac721-3119-4321-88ea-3337bb85cf21.gif)
+
+
+### What I learned? 
+* Usage of Docker since I have had never used it before
+* How to run everything from docker with 1 command
+* More about crud methods 
