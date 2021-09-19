@@ -7,9 +7,14 @@
 * npm run docker:build
 * npm run docker:down
 
-
+## Stack used
+* Frontend: React,Tailwind
+* Backend: Node/Express
+* Database: Postqres
+* Docker to compose all these
 
 ## Features
+
 
 ### Create book
 
