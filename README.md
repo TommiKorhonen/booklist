@@ -34,3 +34,8 @@
 * Usage of Docker since I have had never used it before
 * How to run everything from docker with 1 command
 * More about crud methods 
+
+## If you want to acces database and change data there use this when containers are running
+* docker exec -it multicontainerapp_postgres_1 psql -U postgres
+(multicontainerapp_postgres_1 is the postqres container) 
+
