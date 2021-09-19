@@ -25,7 +25,7 @@
 ![Delete gif](https://user-images.githubusercontent.com/87190300/133934164-4bbac721-3119-4321-88ea-3337bb85cf21.gif)
 
 
-### What I learned? 
+## What I learned? 
 * Usage of Docker since I have had never used it before
 * How to run everything from docker with 1 command
 * More about crud methods 
